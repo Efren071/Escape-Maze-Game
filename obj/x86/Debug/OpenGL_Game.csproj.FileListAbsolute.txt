@@ -1,0 +1,163 @@
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Audio\buzz.wav
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Shaders\fs.glsl
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Shaders\vs.glsl
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Geometry\Moon\moon.mtl
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Geometry\Moon\moon.obj
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.mtl
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.obj
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\bmq1.jpg
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\cockpit_mtl1_diffcol.jpg
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d10.jpg
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17.jpg
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17b.jpg
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl1_diffcol.jpg
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl2_diffcol.jpg
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\vj2c.jpg
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\yx1_02_01_01.jpg
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Moon\moon_diffuse.png
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\OpenGL_Game.exe
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\OpenGL_Game.pdb
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\OpenTK.pdb
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\OpenTK.xml
+C:\Users\Efren_07\Desktop\CourseWork\obj\x86\Debug\OpenGL_Game.csprojAssemblyReference.cache
+C:\Users\Efren_07\Desktop\CourseWork\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+C:\Users\Efren_07\Desktop\CourseWork\obj\x86\Debug\OpenGL_Game.csproj.CopyComplete
+C:\Users\Efren_07\Desktop\CourseWork\obj\x86\Debug\OpenGL_Game.exe
+C:\Users\Efren_07\Desktop\CourseWork\obj\x86\Debug\OpenGL_Game.pdb
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Map\brick.jpg
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Audio\portal.wav
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Map\metal.jpg
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Geometry\Map\newMap.mtl
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Geometry\Map\newMap.obj
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Geometry\Map\Maze.obj
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Geometry\Map\Maze.mtl
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Textures\Map\portal.jpg
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Geometry\Portal\portalOpen.obj
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Geometry\Portal\Portal.mtl
+C:\Users\Efren_07\Desktop\CourseWork\bin\WindowsGL\Debug\Geometry\Portal\Portal Closed.obj
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Audio\buzz.wav
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Audio\portal.wav
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Map\brick.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Map\metal.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Map\portal.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Portal\Portal.mtl
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Portal\Portal Closed.obj
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Portal\portalOpen.obj
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Shaders\fs.glsl
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Shaders\vs.glsl
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Moon\moon.mtl
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Moon\moon.obj
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.mtl
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.obj
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\bmq1.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\cockpit_mtl1_diffcol.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d10.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17b.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl1_diffcol.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl2_diffcol.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\vj2c.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\yx1_02_01_01.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Moon\moon_diffuse.png
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\OpenGL_Game.exe
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\OpenGL_Game.pdb
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\OpenTK.pdb
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\OpenTK.xml
+C:\Users\Efren_07\Desktop\Games Arch\OLD\obj\x86\Debug\OpenGL_Game.csprojAssemblyReference.cache
+C:\Users\Efren_07\Desktop\Games Arch\OLD\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+C:\Users\Efren_07\Desktop\Games Arch\OLD\obj\x86\Debug\OpenGL_Game.csproj.CopyComplete
+C:\Users\Efren_07\Desktop\Games Arch\OLD\obj\x86\Debug\OpenGL_Game.exe
+C:\Users\Efren_07\Desktop\Games Arch\OLD\obj\x86\Debug\OpenGL_Game.pdb
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Map\Map.mtl
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Map\Map.obj
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Map\gameMap.mtl
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Map\gameMap.obj
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Key\gold.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Map\key.mtl
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Map\key.obj
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Audio\key.wav
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Shaders\Skybox\skybox_VS.glsl
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Shaders\Skybox\skybox_FS.glsl
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Map\skybox.png
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Map\skyBox.mtl
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Geometry\Map\skyBox.obj
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Sky\back.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Sky\bottom.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Sky\front.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Sky\left.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Sky\right.jpg
+C:\Users\Efren_07\Desktop\Games Arch\OLD\bin\WindowsGL\Debug\Textures\Sky\top.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Audio\buzz.wav
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Audio\key.wav
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Key\gold.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Map\brick.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Map\metal.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Map\skybox.png
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Sky\back.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Sky\bottom.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Sky\front.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Sky\left.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Sky\right.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Sky\top.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Map\key.mtl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Map\key.obj
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Map\skyBox.mtl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Map\skyBox.obj
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Moon\moon.mtl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Moon\moon.obj
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.mtl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.obj
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\bmq1.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\cockpit_mtl1_diffcol.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d10.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17b.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl1_diffcol.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl2_diffcol.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\vj2c.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\yx1_02_01_01.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Moon\moon_diffuse.png
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\OpenGL_Game.exe
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\OpenGL_Game.pdb
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\OpenTK.pdb
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\OpenTK.xml
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\obj\x86\Debug\OpenGL_Game.csprojAssemblyReference.cache
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\obj\x86\Debug\OpenGL_Game.csproj.CopyComplete
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\obj\x86\Debug\OpenGL_Game.exe
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\obj\x86\Debug\OpenGL_Game.pdb
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Portal\GalaxyPortal.png
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Portal\activePortal.mtl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Portal\activePortal.obj
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Portal\inactivePortal.mtl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Portal\inactivePortal.obj
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Audio\collectedKey.wav
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Audio\PortalOff.wav
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Audio\rolling.wav
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Audio\PortalOn.wav
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Audio\switchOnPortal.wav
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Audio\drop.wav
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Audio\death.wav
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Galaxy\back.png
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Galaxy\bottom.png
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Galaxy\front.png
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Galaxy\left.png
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Galaxy\right.png
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Galaxy\top.png
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Map\torch.png
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Map\torch.mtl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Map\torch.obj
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Shaders\shaders\MainFS.glsl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Shaders\shaders\MainVS.glsl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Textures\Balls\marble.jpg
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Balls\marble.mtl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Balls\marble.obj
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Map\floor.mtl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Map\floor.obj
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Map\maze.mtl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Geometry\Map\maze.obj
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Shaders\shaders\SkyboxFS.glsl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\bin\WindowsGL\Debug\Shaders\shaders\SkyboxVS.glsl
+C:\Users\Efren_07\Desktop\EscapeDarrensMaze\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
